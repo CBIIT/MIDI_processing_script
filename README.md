@@ -3,4 +3,6 @@
 
 This repository contains the codebases and instructions to run the MIDI pipeline using GCP. It utilizes the Healthcare API and Cloud Functions to automate a pipeline to de-identify DICOM images.
 
+Please use the MIDI_SOP.docx for full instructions on setting up and running the pipeline.
+
 **Note**: Postprocessing is now part of the Cloud Functions and the script.py file should be used. Notebook versions of post processing are provided but are no longer required.
